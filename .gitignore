@@ -1,0 +1,17 @@
+# Ignore MySQL dump files (optional)
+/*.sql~
+
+# Ignore DBeaver workspace and metadata files
+/.dbeaver-data-sources.xml
+/.dbeaver/
+/*.dbeaver-data-sources.xml
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore environment config files
+.env
